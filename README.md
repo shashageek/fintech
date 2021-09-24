@@ -1,3 +1,6 @@
 # fintech
+This is where I upload my challenge files. 
 
-hello fintech
+Thank you, 
+
+Shasha Li
