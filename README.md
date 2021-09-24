@@ -1,4 +1,4 @@
-# fintech
+# fintech bootcamp
 This is where I upload my challenge files. 
 
 Thank you, 
